@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 537c00c842e53c74da1e92aa9cef4780
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DamageHealPrefab: {instanceID: 0}
+  - DamageHealSprite: {instanceID: 0}
+  - DamageDonePrefab: {instanceID: 0}
+  - DamageDoneSprite: {instanceID: 0}
+  - explosionPrefab: {instanceID: 0}
+  - explosionSprite: {instanceID: 0}
+  - MissPrefab: {instanceID: 0}
+  - MissSprite: {instanceID: 0}
+  - AttBuffPrefab: {instanceID: 0}
+  - AttBuffSprite: {instanceID: 0}
+  - FireSparkPrefab: {instanceID: 0}
+  - FireSparkSprite: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - on: {fileID: 21300000, guid: acecef5b74c4ae34d99dcb27d1085b9d, type: 3}
+  - off: {fileID: 21300000, guid: a8a258f3ebf3d94429100ae0cf38aed1, type: 3}
+  - menu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

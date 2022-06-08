@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc7f23411b7fc654eaafef70bf5a236c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Floor: {fileID: 528654529374033747, guid: 8b1c81e9b1a97f94e90aa5930de778bd, type: 3}
+  - Wall: {fileID: 1032068586893466758, guid: f40ab74ad2450a943b90674e865a92a2, type: 3}
+  - playerPrefab: {fileID: 1683847229198567837, guid: ba21e36fdea9e7c4daceef579c2119bd, type: 3}
+  - playerSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
